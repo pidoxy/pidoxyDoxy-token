@@ -1,0 +1,33 @@
+[
+  {
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "Flying"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Dull"
+      }
+    ],
+    "description": "Pidoxy's Ape.",
+    "image": "https://gateway.pinata.cloud/ipfs/Qmb5DUjMGzHMHJFZFxjPvwwZqoe6Q4whhXGmTkkHi9tQDd",
+    "name": "Pidoxape"
+  },
+
+  {
+    "attributes": [
+      {
+        "trait_type": "Status",
+        "value": "Ready"
+      },
+      {
+        "trait_type": "Mood",
+        "value": "Bright"
+      }
+    ],
+    "description": "Pidoxy's Ape.",
+    "image": "https://gateway.pinata.cloud/ipfs/QmehL3bpXtHaN9n7pb3CnEHusZo834xpFvne2ZA2u4P1MT",
+    "name": "Pidoxybudy"
+  }
+]
